@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, visitor! 👋
 
-Signal processing and machine learning for healthcare applications. Currently doing a postdoc at Stanford University to discover biomarkers of depression and insomnia in sleep signals. 
+I am researching signal processing and machine learning for healthcare applications. Currently doing a postdoc at Stanford University to discover biomarkers of depression and insomnia in sleep signals. 
 
 
 <!--
